@@ -2,9 +2,9 @@
 
 ![App Ideas Image](https://i.imgur.com/MwYDaWg.png)
 
-A curated list of online learning resources to get you started with your next project.
+A curated list of online learning resources to help get you started with your next project.
 
-**Please read [contributing guidelines](./contributing.md) before submitting a new resource.**
+**Please read the [contributing guidelines](./contributing.md) before submitting a new resource.**
 
 ### Developer Roadmap
 
