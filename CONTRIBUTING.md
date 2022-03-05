@@ -1,6 +1,6 @@
 # Contributing Guideline
 
-To contribute, please submit a Pull Request including the following information:
+To contribute, please submit a new issue using the **New Resource** label including the following information:
 
 - Resource name
 - Resource description
