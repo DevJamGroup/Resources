@@ -1,6 +1,7 @@
 ## :ledger: Resources
 
 ![App Ideas Image](https://i.imgur.com/MwYDaWg.png)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
 A curated list of online learning resources to help get you started with your next project.
 
