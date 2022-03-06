@@ -42,6 +42,7 @@ A curated list of online learning resources to help get you started with your ne
 | [Ant Design](https://ant.design/)                         | The world's second most popular React UI framework.
 | [Chakra UI](https://chakra-ui.com/)                       | A simple, modular and accessible component library for React applications.
 | [Material UI](https://mui.com/)                           | A robust, customizable, and accessible library of foundational and advanced components for React apps.
+| [Next UI](https://nextui.org/)                            | Beautiful, fast and modern React UI library.
 
 ### Icons
 
