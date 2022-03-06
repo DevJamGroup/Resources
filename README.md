@@ -5,8 +5,6 @@
 
 A curated list of online learning resources to help get you started with your next project.
 
-**Please read the [contributing guidelines](./contributing.md) before submitting a new resource.**
-
 ### Developer Roadmap
 
 | Name                                                      | Description                                          
@@ -60,8 +58,6 @@ A curated list of online learning resources to help get you started with your ne
 | [Dribbble](https://www.dribbble.com/)                     | The world’s leading community for creatives to share, grow, and get hired.
 | [Behance](https://behance.net/)                           | The world's largest creative network for showcasing and discovering creative work.
 
+## Contributing
 
-
-
-
-
+Please read the **[contributing guidelines](./contributing.md)** before submitting a new resource.
