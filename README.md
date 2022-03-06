@@ -60,4 +60,4 @@ A curated list of online learning resources to help get you started with your ne
 
 ## Contributing
 
-Please read the **[contributing guidelines](./contributing.md)** before submitting a new resource.
+Please read the **[contributing guidelines](./CONTRIBUTING.md)** before submitting a new resource.
