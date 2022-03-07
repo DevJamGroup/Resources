@@ -66,6 +66,13 @@ A curated list of online resources to help get you started with your next projec
 | [Fakerjs](https://fakerjs.dev/)                           | Generate massive amounts of fake data in the browser and node.js.
 | [Mockaroo](https://www.mockaroo.com/)                     | Generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
+### Image Editor
+
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Pixlr](https://pixlr.com)                                | Photo editor, animation and design.
+| [Sumo](https://sumo.app/)                                 | Drawing Tool and Image Editor.
+
 ## Contributing
 
 Please read the **[contributing guidelines](./CONTRIBUTING.md)** before submitting a new resource.
