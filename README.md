@@ -53,6 +53,13 @@ A curated list of online resources to help get you started with your next projec
 | [Good Stuff No Nonsense](https://goodstuffnononsense.com/icons-category/free/) | Free Hand-Drawn Vector Icons.
 | [Pixeltrue](https://www.pixeltrue.com/free-packs/popular-icons) | 500+ Free Illustrations & Animations. Updated Weekly.
 
+### Mock Data
+
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Fakerjs](https://fakerjs.dev/)                           | Generate massive amounts of fake data in the browser and node.js.
+| [Mockaroo](https://www.mockaroo.com/)                     | Generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
+
 ### Design Inspiration
 
 | Name                                                      | Description                                          
@@ -60,12 +67,22 @@ A curated list of online resources to help get you started with your next projec
 | [Dribbble](https://www.dribbble.com/)                     | The world’s leading community for creatives to share, grow, and get hired.
 | [Behance](https://behance.net/)                           | The world's largest creative network for showcasing and discovering creative work.
 
-### Mock Data
+### Color Generators
 
 | Name                                                      | Description                                          
  ---------------------------------------------------------- | -------------------------------------------------------------- |
-| [Fakerjs](https://fakerjs.dev/)                           | Generate massive amounts of fake data in the browser and node.js.
-| [Mockaroo](https://www.mockaroo.com/)                     | Generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
+| [Coolors](https://coolors.co/)                            | The super fast color palettes generator!
+| [CSS Gradient](https://cssgradient.io/)                   | A free css gradient generator tool.
+| [Haikei](https://haikei.app/)                             | Generate unique SVG design assets.
+| [FlatIcon Pattern](https://www.flaticon.com/pattern)      | Create patterns easily with Flaticon.
+
+### Stock Photos
+
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Unsplash](https://unsplash.com)                          | Millions of free stock stock photos.
+| [Pexels](https://pexels.com/)                             | Free stock photos & videos you can use everywhere.
+| [Pixabay](https://pixabay.com/)                              | Over 2.5 million+ high quality stock images, videos and music.
 
 ### Image Editor
 
