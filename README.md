@@ -51,7 +51,7 @@ A curated list of online resources to help get you started with your next projec
 | [FlatIcon](https://www.flaticon.com/)                     | Access +6.7M vector icons & stickers.
 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icons in your React projects easily with react-icons.
 | [Good Stuff No Nonsense](https://goodstuffnononsense.com/icons-category/free/) | Free Hand-Drawn Vector Icons.
-| [Pixeltrue](https://www.pixeltrue.com/free-packs/popular-icons) | 500+ Free Illustrations & Animations. Updated Weekly.
+| [Pixeltrue](https://www.pixeltrue.com/free-illustrations) | 500+ Free Illustrations & Animations. Updated Weekly.
 
 ### Mock Data
 
