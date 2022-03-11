@@ -74,8 +74,7 @@ A curated list of online resources to help get you started with your next projec
 | [Coolors](https://coolors.co/)                            | The super fast color palettes generator!
 | [CSS Gradient](https://cssgradient.io/)                   | A free css gradient generator tool.
 | [Haikei](https://haikei.app/)                             | Generate unique SVG design assets.
-| [Shape Divider](https://www.shapedivider.app/)            | Free tool to make it easier for designers and developers to export a beautiful SVG
-shape divider.
+| [Shape Divider](https://www.shapedivider.app/)            | Free tool to make it easier to export beautiful SVG shape dividers.
 | [FlatIcon Pattern](https://www.flaticon.com/pattern)      | Create patterns easily with Flaticon.
 
 ### Stock Photos
