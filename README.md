@@ -20,6 +20,7 @@ A curated list of online resources to help get you started with your next projec
 | [Fullstack Open](https://fullstackopen.com/en/)           | Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! 
 | [App Academy Open](https://www.appacademy.io/course/app-academy-open) | App Academy’s entire full-stack curriculum for free. No catch, no strings attached.
 | [Sololearn](https://www.sololearn.com/home)               | The world's largest community of people learning to code. With over 25 programming courses,
+| [Interneting Is Hard](https://www.internetingishard.com/) | Friendly web development tutorials for complete beginners.
 
 ### Free & Paid Courses
 
@@ -32,6 +33,14 @@ A curated list of online resources to help get you started with your next projec
 | [Pluralsight](pluralsight.com/)                           | An online education company that offers a variety of video training courses for technologists. 
 | [Codecademy](https://www.codecademy.com)                  | An online interactive platform that offers free coding classes in 12 different programming languages.
 
+
+### HTML/CSS
+
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Flexbox Froggy](https://flexboxfroggy.com/)              | A game for learning CSS flexbox.
+| [CSS Grid Garden](https://cssgridgarden.com/)             | A game for learning CSS grid.
+| [Flexbox Zombie](https://mastery.games/flexboxzombies/)   | A game for learning CSS flexbox.
 
 ### CSS Frameworks
 
