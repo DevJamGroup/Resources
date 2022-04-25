@@ -21,6 +21,7 @@ A curated list of online resources to help get you started with your next projec
 | [App Academy Open](https://www.appacademy.io/course/app-academy-open) | App Academy’s entire full-stack curriculum for free. No catch, no strings attached.
 | [Sololearn](https://www.sololearn.com/home)               | The world's largest community of people learning to code. With over 25 programming courses,
 | [Interneting Is Hard](https://www.internetingishard.com/) | Friendly web development tutorials for complete beginners.
+| [MOOC.fi](https://www.mooc.fi/en/#courses)                | Courses by University of Helsinki's Department of Computer Science.
 
 ### Free & Paid Courses
 
