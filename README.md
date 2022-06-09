@@ -14,7 +14,7 @@ A curated list of online learning resources.
 
 #### Development
 
-- [HTML and CSS](#developer-roadmap)
+- [HTML and CSS](#html-and-css)
 - [CSS Frameworks](#free-online-courses)
 - [SQL](#free-and-paid-courses)
 - [Contributing to open source as a beginner](#contributing-to-open-source-as-a-beginner)
