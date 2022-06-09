@@ -56,6 +56,8 @@ A curated list of online resources to help get you started with your next projec
 
 ### SQL
 
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
 | [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)           | SQLZoo includes tutorials and reference to support people learning SQL. 
 | [SQL Bolt](https://sqlbolt.com/)                          | A series of interactive lessons and exercises designed to help you quickly learn SQL.
 | [Select Star SQL](https://selectstarsql.com/)             | An interactive book which aims to be the best place on the internet for learning SQL. 
