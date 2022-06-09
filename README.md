@@ -4,20 +4,23 @@
 A curated list of online learning resources.
 
 #### Learn
-[Developer Roadmap](#developer-roadmap)
-[Free Online Courses](#free-online-courses)
-[Free and Paid Courses](#free-and-paid-courses)
+
+- [Developer Roadmap](#developer-roadmap)
+- [Free Online Courses](#free-online-courses)
+- [Free and Paid Courses](#free-and-paid-courses)
 
 #### Development
-[HTML and CSS](#developer-roadmap)
-[CSS Frameworks](#free-online-courses)
-[SQL](#free-and-paid-courses)
-[Contributing to open source as a beginner](#contributing-to-open-source-as-a-beginner)
-[Mock Data](#mock-data)
+
+- [HTML and CSS](#developer-roadmap)
+- [CSS Frameworks](#free-online-courses)
+- [SQL](#free-and-paid-courses)
+- [Contributing to open source as a beginner](#contributing-to-open-source-as-a-beginner)
+- [Mock Data](#mock-data)
 
 #### Assets
-[Icons](#icons)
-[Stock Photos](#stock-photos)
+
+- [Icons](#icons)
+- [Stock Photos](#stock-photos)
 
 [App Ideas Image](https://i.imgur.com/F1dPEZ3.png)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
