@@ -33,7 +33,7 @@ A curated list of online resources to help get you started with your next projec
 | [Udacity](https://www.udacity.com/)                       | A global, online, lifelong-learning platform for career advancement attached.
 | [Pluralsight](pluralsight.com/)                           | An online education company that offers a variety of video training courses for technologists. 
 | [Codecademy](https://www.codecademy.com)                  | An online interactive platform that offers free coding classes in 12 different programming languages.
-
+| [Manning LiveBook](https://livebook.manning.com/)         | Free courses for various subjects relating to software develoment.
 
 ### HTML/CSS
 
@@ -54,6 +54,21 @@ A curated list of online resources to help get you started with your next projec
 | [Material UI](https://mui.com/)                           | A robust, customizable, and accessible library of foundational and advanced components for React apps.
 | [Next UI](https://nextui.org/)                            | Beautiful, fast and modern React UI library.
 
+### SQL
+
+| [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)           | SQLZoo includes tutorials and reference to support people learning SQL. 
+| [SQL Bolt](https://sqlbolt.com/)                          | A series of interactive lessons and exercises designed to help you quickly learn SQL.
+| [Select Star SQL](https://selectstarsql.com/)             | An interactive book which aims to be the best place on the internet for learning SQL. 
+| [SQL Course](https://www.sqlcourse.com/)                  | A tutorial website where you learn SQL by practicing.
+| [Data School](https://dataschool.com/learn-sql/)          | Learn how to use SQL with your PostgreSQL database.
+
+### Mock Data
+
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Fakerjs](https://fakerjs.dev/)                           | Generate massive amounts of fake data in the browser and node.js.
+| [Mockaroo](https://www.mockaroo.com/)                     | Generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
+
 ### Icons
 
 | Name                                                      | Description                                          
@@ -63,44 +78,13 @@ A curated list of online resources to help get you started with your next projec
 | [Good Stuff No Nonsense](https://goodstuffnononsense.com/icons-category/free/) | Free Hand-Drawn Vector Icons.
 | [Pixeltrue](https://www.pixeltrue.com/free-illustrations) | 500+ Free Illustrations & Animations. Updated Weekly.
 
-### Mock Data
-
-| Name                                                      | Description                                          
- ---------------------------------------------------------- | -------------------------------------------------------------- |
-| [Fakerjs](https://fakerjs.dev/)                           | Generate massive amounts of fake data in the browser and node.js.
-| [Mockaroo](https://www.mockaroo.com/)                     | Generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
-
-### Design Inspiration
-
-| Name                                                      | Description                                          
- ---------------------------------------------------------- | -------------------------------------------------------------- |
-| [Dribbble](https://www.dribbble.com/)                     | The world’s leading community for creatives to share, grow, and get hired.
-| [Behance](https://behance.net/)                           | The world's largest creative network for showcasing and discovering creative work.
-
-### Color Generators
-
-| Name                                                      | Description                                          
- ---------------------------------------------------------- | -------------------------------------------------------------- |
-| [Coolors](https://coolors.co/)                            | The super fast color palettes generator!
-| [CSS Gradient](https://cssgradient.io/)                   | A free css gradient generator tool.
-| [Haikei](https://haikei.app/)                             | Generate unique SVG design assets.
-| [Shape Divider](https://www.shapedivider.app/)            | Free tool to make it easier to export beautiful SVG shape dividers.
-| [FlatIcon Pattern](https://www.flaticon.com/pattern)      | Create patterns easily with Flaticon.
-
 ### Stock Photos
 
 | Name                                                      | Description                                          
  ---------------------------------------------------------- | -------------------------------------------------------------- |
 | [Unsplash](https://unsplash.com)                          | Millions of free stock stock photos.
 | [Pexels](https://pexels.com/)                             | Free stock photos & videos you can use everywhere.
-| [Pixabay](https://pixabay.com/)                              | Over 2.5 million+ high quality stock images, videos and music.
-
-### Image Editor
-
-| Name                                                      | Description                                          
- ---------------------------------------------------------- | -------------------------------------------------------------- |
-| [Pixlr](https://pixlr.com)                                | Photo editor, animation and design.
-| [Sumo](https://sumo.app/)                                 | Drawing Tool and Image Editor.
+| [Pixabay](https://pixabay.com/)                           | Over 2.5 million+ high quality stock images, videos and music.
 
 ## Contributing
 
