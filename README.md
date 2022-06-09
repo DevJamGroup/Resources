@@ -1,12 +1,27 @@
 ## :ledger: Resources
 
 ### Table Of Contents
-[Developer Roadmap](#developer-roadmap)
+A curated list of online learning resources.
 
-![App Ideas Image](https://i.imgur.com/F1dPEZ3.png)
+#### Learn
+[Developer Roadmap](#developer-roadmap)
+[Free Online Courses](#free-online-courses)
+[Free and Paid Courses](#free-and-paid-courses)
+
+#### Development
+[HTML and CSS](#developer-roadmap)
+[CSS Frameworks](#free-online-courses)
+[SQL](#free-and-paid-courses)
+[Contributing to open source as a beginner](#contributing-to-open-source-as-a-beginner)
+[Mock Data](#mock-data)
+
+#### Assets
+[Icons](#icons)
+[Stock Photos](#stock-photos)
+
+[App Ideas Image](https://i.imgur.com/F1dPEZ3.png)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-A curated list of online resources to help get you started with your next project.
 
 ### Developer Roadmap
 
@@ -26,7 +41,7 @@ A curated list of online resources to help get you started with your next projec
 | [Interneting Is Hard](https://www.internetingishard.com/) | Friendly web development tutorials for complete beginners.
 | [MOOC.fi](https://www.mooc.fi/en/#courses)                | Courses by University of Helsinki's Department of Computer Science.
 
-### Free & Paid Courses
+### Free and Paid Courses
 
 | Name                                                      | Description                                          
  ---------------------------------------------------------- | -------------------------------------------------------------- |
@@ -38,7 +53,7 @@ A curated list of online resources to help get you started with your next projec
 | [Codecademy](https://www.codecademy.com)                  | An online interactive platform that offers free coding classes in 12 different programming languages.
 | [Manning LiveBook](https://livebook.manning.com/)         | Free courses for various subjects relating to software develoment.
 
-### HTML/CSS
+### HTML and CSS
 
 | Name                                                      | Description                                          
  ---------------------------------------------------------- | -------------------------------------------------------------- |
