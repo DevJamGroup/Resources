@@ -1,5 +1,8 @@
 ## :ledger: Resources
 
+### Table Of Contents
+[Developer Roadmap](#developer-roadmap)
+
 ![App Ideas Image](https://i.imgur.com/F1dPEZ3.png)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
@@ -63,6 +66,15 @@ A curated list of online resources to help get you started with your next projec
 | [Select Star SQL](https://selectstarsql.com/)             | An interactive book which aims to be the best place on the internet for learning SQL. 
 | [SQL Course](https://www.sqlcourse.com/)                  | A tutorial website where you learn SQL by practicing.
 | [Data School](https://dataschool.com/learn-sql/)          | Learn how to use SQL with your PostgreSQL database.
+
+### Contributing to open source as a beginner
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Rysolv Blog](https://blog.rysolv.com/how-to-contribute-to-open-source) | Contributing to open source as a beginner.
+| [Good First Issue.com](https://goodfirstissues.com/) | Curated list of easy pickings from popular open-source projects, and helps you make your first contribution to open-source.  
+| [Good First Issue.dev](https://goodfirstissue.dev/) |`Curated list of open source projects for beginners.
+| [Github](https://github.com/showcases/great-for-new-contributors) | List of repos that is welcoming to new open source contributors.
+| [Github](https://github.com/topics/help-wanted?o=desc&s=updated) | List of repos looking for contributors.
 
 ### Mock Data
 
