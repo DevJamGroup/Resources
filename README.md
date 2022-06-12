@@ -110,7 +110,7 @@ A curated list of online learning resources.
 | [Good Stuff No Nonsense](https://goodstuffnononsense.com/icons-category/free/) | Free Hand-Drawn Vector Icons.
 | [Undraw](https://undraw.co/illustrations)                 | Open-source illustrations for any idea you can imagine and create.
 | [Many Pixels](https://www.manypixels.co/gallery)          | 2,500+ royalty-free illustrations to power up your designs.
-| [Illustartions](https://illlustrations.co/)               | 100+ open source illustrations kit.
+| [Illustrations.co](https://illlustrations.co/)               | 100+ open source illustrations kit.
 | [Isometric](https://isometric.online/)                    | Collection of free, beautiful, SVG isometric illustrations.
 
 ### Stock Photos
