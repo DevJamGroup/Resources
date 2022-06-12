@@ -108,7 +108,10 @@ A curated list of online learning resources.
 | [FlatIcon](https://www.flaticon.com/)                     | Access +6.7M vector icons & stickers.
 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icons in your React projects easily with react-icons.
 | [Good Stuff No Nonsense](https://goodstuffnononsense.com/icons-category/free/) | Free Hand-Drawn Vector Icons.
-| [Pixeltrue](https://www.pixeltrue.com/free-illustrations) | 500+ Free Illustrations & Animations. Updated Weekly.
+| [Undraw](https://undraw.co/illustrations)                 | Open-source illustrations for any idea you can imagine and create.
+| [Many Pixels](https://www.manypixels.co/gallery)          | 2,500+ royalty-free illustrations to power up your designs.
+| [Illustartions](https://illlustrations.co/)               | 100+ open source illustrations kit.
+| [Isometric](https://isometric.online/)                    | Collection of free, beautiful, SVG isometric illustrations.
 
 ### Stock Photos
 
