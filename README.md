@@ -17,6 +17,7 @@ A curated list of online learning resources.
 - [HTML and CSS](#html-and-css)
 - [CSS Frameworks](#free-online-courses)
 - [SQL](#free-and-paid-courses)
+- [Version Control](#version-control)
 - [Contributing to open source as a beginner](#contributing-to-open-source-as-a-beginner)
 - [Mock Data](#mock-data)
 
@@ -84,6 +85,12 @@ A curated list of online learning resources.
 | [Select Star SQL](https://selectstarsql.com/)             | An interactive book which aims to be the best place on the internet for learning SQL. 
 | [SQL Course](https://www.sqlcourse.com/)                  | A tutorial website where you learn SQL by practicing.
 | [Data School](https://dataschool.com/learn-sql/)          | Learn how to use SQL with your PostgreSQL database.
+
+### Version Control
+
+| Name                                                      | Description                                          
+ ---------------------------------------------------------- | -------------------------------------------------------------- |
+| [Learn Git Branching](https://learngitbranching.js.org/)  | Visual and interactive way to learn Git on the web.
 
 ### Contributing to open source as a beginner
 | Name                                                      | Description                                          
