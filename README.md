@@ -82,9 +82,11 @@ A curated list of online learning resources.
  ---------------------------------------------------------- | -------------------------------------------------------------- |
 | [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)           | SQLZoo includes tutorials and reference to support people learning SQL. 
 | [SQL Bolt](https://sqlbolt.com/)                          | A series of interactive lessons and exercises designed to help you quickly learn SQL.
+| [SQL Practice](https://www.sql-practice.com/)             | Practice writing SQL Queries.
 | [Select Star SQL](https://selectstarsql.com/)             | An interactive book which aims to be the best place on the internet for learning SQL. 
 | [SQL Course](https://www.sqlcourse.com/)                  | A tutorial website where you learn SQL by practicing.
 | [Data School](https://dataschool.com/learn-sql/)          | Learn how to use SQL with your PostgreSQL database.
+| [Strata Scratch](https://platform.stratascratch.com/)                   | LC style SQL questions.
 
 ### Version Control
 
