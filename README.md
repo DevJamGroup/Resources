@@ -75,6 +75,7 @@ A curated list of online learning resources.
 | [Chakra UI](https://chakra-ui.com/)                       | A simple, modular and accessible component library for React applications.
 | [Material UI](https://mui.com/)                           | A robust, customizable, and accessible library of foundational and advanced components for React apps.
 | [Next UI](https://nextui.org/)                            | Beautiful, fast and modern React UI library.
+| [Mantine UI](https://mantine.dev/)                        | 134 responsive components built with Mantine
 
 ### SQL
 
