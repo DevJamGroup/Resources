@@ -76,6 +76,7 @@ A curated list of online learning resources.
 | [Material UI](https://mui.com/)                           | A robust, customizable, and accessible library of foundational and advanced components for React apps.
 | [Next UI](https://nextui.org/)                            | Beautiful, fast and modern React UI library.
 | [Mantine UI](https://mantine.dev/)                        | 134 responsive components built with Mantine
+| [Daisy UI](https://daisyui.com/)                          | Tailwind CSS Components
 
 ### SQL
 
