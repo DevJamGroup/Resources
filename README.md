@@ -77,6 +77,9 @@ A curated list of online learning resources.
 | [Next UI](https://nextui.org/)                            | Beautiful, fast and modern React UI library.
 | [Mantine UI](https://mantine.dev/)                        | 134 responsive components built with Mantine
 | [Daisy UI](https://daisyui.com/)                          | Tailwind CSS Components
+| [Radix](https://www.radix-ui.com)                         | Unstyled, accessible components for building high‑quality design systems and web apps in React.
+| [shadcn/ui](https://ui.shadcn.com/)                       | Beautifully designed components built with Radix UI and Tailwind CSS.
+| [HeadlessUI](https://headlessui.com/)                     | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 ### SQL
 
